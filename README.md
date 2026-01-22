@@ -50,7 +50,7 @@ Docking Affinity Plotter: Visualize and analyze binding affinity data from molec
 ✅ Click Open Output Location to view results.
 
 ![Demo 2 - Analysis Output](https://github.com/PQBioAI/Docking-Affinity-Plotter/raw/main/Demo_2.PNG)  
-*Figure 2: Example of generated plots and PDF report*
+*Figure 2: Example of Use*
 
 ## Contributing
 
