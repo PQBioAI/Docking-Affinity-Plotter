@@ -70,6 +70,13 @@ Docking Affinity Plotter: Visualize and analyze binding affinity data from molec
 
 ✅ MIT License. See LICENSE for details.
 
+## Citation
+
+If you use **Docking Affinity Plotter** in your research, please cite it as:
+
+Md. Ismiel Hossen, A. (2026). *Docking Affinity Plotter: Visualize and Analyze Binding Affinity Data* (v1.0). Zenodo. [https://doi.org/10.5281/zenodo.18340175](https://doi.org/10.5281/zenodo.18340175)
+
+
 ## Contact
 Md. Ismiel Hossen Abir  
 GitHub: [https://github.com/IsmielAbir](https://github.com/IsmielAbir)
