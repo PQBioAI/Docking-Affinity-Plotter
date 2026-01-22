@@ -36,6 +36,9 @@ Docking Affinity Plotter: Visualize and analyze binding affinity data from molec
 
 ✅ Progress Tracking: Real-time progress bar and status messages.
 
+![Demo 1 - Main Interface](https://github.com/PQBioAI/Docking-Affinity-Plotter/raw/main/Demo_1.PNG)  
+*Figure 1: Main interface of Docking Affinity Plotter*
+
 ## Workflow in GUI:
 
 ✅ Click Browse CSV and select your docking results file.
@@ -45,6 +48,9 @@ Docking Affinity Plotter: Visualize and analyze binding affinity data from molec
 ✅ Click Generate Analysis to produce plots and a PDF report.
 
 ✅ Click Open Output Location to view results.
+
+![Demo 2 - Analysis Output](https://github.com/PQBioAI/Docking-Affinity-Plotter/raw/main/Demo_2.PNG)  
+*Figure 2: Example of generated plots and PDF report*
 
 ## Contributing
 
