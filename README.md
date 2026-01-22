@@ -35,3 +35,31 @@ Docking Affinity Plotter: Visualize and analyze binding affinity data from molec
 ✅ Output Management: Saves timestamped outputs in Downloads and opens the folder directly from the GUI.
 
 ✅ Progress Tracking: Real-time progress bar and status messages.
+
+## Workflow in GUI:
+
+✅ Click Browse CSV and select your docking results file.
+
+✅ Preview the data table.
+
+✅ Click Generate Analysis to produce plots and a PDF report.
+
+✅ Click Open Output Location to view results.
+
+## Contributing
+
+### Contributions are welcome! You can:
+
+✅ Report bugs
+
+✅ Suggest features
+
+✅ Submit pull requests
+
+## License
+
+✅ MIT License. See LICENSE for details.
+
+## Contact
+Md. Ismiel Hossen Abir  
+GitHub: [https://github.com/IsmielAbir](https://github.com/IsmielAbir)
