@@ -2,10 +2,6 @@
 
 Docking Affinity Plotter: Visualize and analyze binding affinity data from molecular docking experiments. This desktop GUI tool allows researchers to load docking results, generate insightful plots, and create a  PDF report highlighting top ligands, statistical analyses, and key visualizations.
 
-![GitHub Stars](https://img.shields.io/github/stars/PQBioAI/Docking-Affinity-Plotter?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/PQBioAI/Docking-Affinity-Plotter?style=flat-square)
-![Downloads](https://img.shields.io/github/downloads/PQBioAI/Docking-Affinity-Plotter/total?style=flat-square)
-
 ## Features
 
 ✅ CSV File Loading: Accepts docking results with ligand names, binding affinity, RMSD upper bound (rmsd/ub), and RMSD lower bound (rmsd/lb).
